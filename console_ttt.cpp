@@ -106,8 +106,8 @@ class Game{
                 std::cout << "No such position avaliable" << std::endl;
             }
         }
-        
-int menu(){
+    
+    void menu(){
     char player;
     while (true){
         std::cout << "Choose who goes first(X/O):";
