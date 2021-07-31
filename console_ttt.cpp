@@ -1,3 +1,5 @@
+#include <iostream>
+
 class Game{
 public:
     char field[3][3];
